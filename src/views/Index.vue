@@ -8,6 +8,7 @@ import router from '../router/index'
 
 export default {
     name: 'Index',
+    // github webhook 测试
     components: {},
     setup(){
         const goLogin = ()=>{
